@@ -38,5 +38,15 @@ Documente adequadamente a arquitetura, os processos de configuração, manutenç
 
 <img src="./img//grafico-luminosidade-15.png">
 
-Obs: o gráfico mostra que foram coletados aproximadamente 82 leituras num período de 15 minutos.
+Obs: o gráfico mostra que foram coletadas aproximadamente 82 leituras num período de 15 minutos.
+
+
+
+## Autores
+
+1ESPF
+
+- João Lucas Cancado (rm: 551612)
+- Murilo Marsola Eloys (rm: 552117)
+- Victor Kenzo Toma (rm: 551649)
 
