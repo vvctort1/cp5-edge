@@ -34,7 +34,7 @@ Práticas de monitoramento para acompanhar o desempenho da solução e identific
 
 Documente adequadamente a arquitetura, os processos de configuração, manutenção, e as interfaces de API facilitando a gestão e a expansão futura da solução.
 
-## Gráfico Luminosidade x Tempo de 15 minutos de coleta utilizando STH-Comet
+## Luminosidade x Tempo (15 minutos de coleta utilizando STH-Comet)
 
 <img src="./img//grafico-luminosidade-15.png">
 
