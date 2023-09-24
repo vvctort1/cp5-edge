@@ -7,7 +7,7 @@
 #### 1. Dispositivo de Coleta de Dados (ESP32):
 
 O ESP32 será equipado com um atuador buzzer para alertar o cliente e sensores para medir a luminosidade (LDR), umidade e temperatura (DHT11).
-Ele coletará dados periodicamente desses sensores. Também receberá instruções fazendo com que o buzzer entre em ação conforme os parâmetros pré estabelecidos.
+Ele coletará dados periodicamente desses sensores. Também receberá instruções fazendo com que o buzzer entre em ação conforme os parâmetros pré estabelecidos pelos sensores.
 O ESP32 se conectará a uma rede Wi-Fi para se comunicar com o sistema de back-end (FIWARE Descomplicado) utilizando o protocólo de comunicação MQTT.
 
 #### 2. Sistema de Back-End (Fiware Descomplicado):
@@ -33,4 +33,10 @@ Práticas de monitoramento para acompanhar o desempenho da solução e identific
 #### 6. Documentação:
 
 Documente adequadamente a arquitetura, os processos de configuração, manutenção, e as interfaces de API facilitando a gestão e a expansão futura da solução.
+
+## Gráfico Luminosidade x Tempo de 15 minutos de coleta utilizando STH-Comet
+
+<img src="./img//grafico-luminosidade-15.png">
+
+Obs: o gráfico mostra que foram coletados aproximadamente 82 leituras num período de 15 minutos.
 
